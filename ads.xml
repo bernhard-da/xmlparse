@@ -1,0 +1,14 @@
+<ads>
+<ad>
+<ad_id>1</ad_id>
+<category_id>7</category_id>
+<region_id>4</region_id>
+<ad_price>23</ad_price>
+</ad>
+<ad>
+<ad_id>2</ad_id>
+<category_id>6</category_id>
+<region_id>2</region_id>
+<ad_price>23</ad_price>
+</ad>
+</ads>
