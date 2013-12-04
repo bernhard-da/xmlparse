@@ -11,5 +11,5 @@ python (>=3) skripts zum parsen vom speziellen xml-files...
 * ads beim einlesen gleich aggregieren
 * ergebnisse gleich in datenbank schreiben
 
-## revisionNummer: 3
+## revisionNummer: 4
 
