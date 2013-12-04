@@ -2,7 +2,7 @@
 <user>
 <user_id>1</user_id>
 <email_address>abc@example.com</email_address>
-<name>John</name>
+<name>Johnny</name>
 <sur_name>Wayne</sur_name>
 <phone_number>123</phone_number>
 <has_account>1</has_account>
