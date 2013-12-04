@@ -1,16 +1,16 @@
-Package: xxx                                
-Version: 0.10.38 
+Package: xxx                                 
+Version: 0.10.39 
 Date: 2013-12-04 
-Title: bla                                
-Description: bla                                
-Author: bla                                
-Maintainer: who                                
-    <who.ever@somewhere.net>                                
-Depends:                                
-    stringr                                
-LazyLoad: yes                                
-LinkingTo: Rcpp                                
-License: GPL-2                                
-Collate:                                
-    'classes.r'                                
-                            
+Title: bla                                 
+Description: bla                                 
+Author: bla                                 
+Maintainer: who                                 
+    <who.ever@somewhere.net>                                 
+Depends:                                 
+    stringr                                 
+LazyLoad: yes                                 
+LinkingTo: Rcpp                                 
+License: GPL-2                                 
+Collate:                                 
+    'classes.r'                                 
+                             
