@@ -10,4 +10,6 @@ python (>=3) skripts zum parsen vom speziellen xml-files...
 ## todo
 * ads beim einlesen gleich aggregieren
 * ergebnisse gleich in datenbank schreiben
+* 
+## revisionNummer: 1
 
