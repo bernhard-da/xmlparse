@@ -3,7 +3,7 @@ xmlparse
 
 python (>=3) skripts zum parsen vom speziellen xml-files...
 
-## anwendung:
+## how to apply:
 * python xmlparse_ads.py
 * python xmlparse_user.py
 
